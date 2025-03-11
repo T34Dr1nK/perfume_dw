@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+/etl/kaggle.json
+/etl/fra_cleaned.csv
+/etl/fra_perfumes.csv
+/etl/fragrantica-com-fragrance-dataset.zip
+
 # Distribution / packaging
 .Python
 build/
